@@ -12,7 +12,7 @@ PatchDreamer
 - İlkay Seki: Team Member/Developer
 
 ## Ürün İsmi
-PatchDreamer
+DreamPatcher
 
 ## Ürün Açıklaması
 Arena içerisinde, humanoidlerin birbiri ile savaştıkları, üçer kişilik iki takımdan oluşan, her takımda Ateş, Su, Toprak, Hava elementlerini temsil eden yalnızca bir
@@ -26,8 +26,6 @@ Oyun oynarken sosyalleşmek isteyenler
 
 ## Product Backlog URL
 https://sharing.clickup.com/14277929/l/h/6-146187202-1/2513aa1e956b267
-
-![1](https://user-images.githubusercontent.com/95364332/167488516-6a49ff27-df68-4419-b323-0e76e7eeb775.JPG)
 
 # Sprint 1
 
@@ -45,7 +43,8 @@ olanları temsil etmektedir.
 ![1 3](https://user-images.githubusercontent.com/95364332/167487651-44e682bb-c57e-4f4e-9921-2af1cc98bf92.JPG)
 
 - **Sprint board update**: Sprint board ekran görüntüleri: 
- ![sp1](https://user-images.githubusercontent.com/95364332/167489729-2bea3542-3430-4207-bb54-7ed3a6f196cf.JPG)
+ ![sp](https://user-images.githubusercontent.com/95364332/167490881-de780176-2e8e-423b-a88d-a33f5cb7357e.JPG)
+![board](https://user-images.githubusercontent.com/95364332/167490768-66f05434-c7fe-4f10-9aea-cec20e2c48e5.JPG)
 
 - **Ürün Durumu**: Ekran görüntüleri:
   ![SS1](https://user-images.githubusercontent.com/95364332/167489212-ac42f370-9916-4df4-8526-fdc4af3e0dff.JPG)
