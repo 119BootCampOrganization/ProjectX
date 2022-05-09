@@ -49,4 +49,4 @@ https://drive.google.com/file/d/1EtxRSwtbiqyt1zfs0nhKM3lWjJ__Cfzi/view?usp=shari
 - **Sprint Retrospective:**
   - Beklenen hedefin gerisinde kalındığı için bir sonraki sprintte iş yükü azaltılarak ürünün özelliklerinde değişimler yapılacaktır.
   - Görüntülü görüşmeler haftada 1 e indirilip discordun aktif kullanılması kararlaştırıldı.
-  - Haftalık 3 gün daily scrum raporlama hedefi konuldu.
+  - Haftalık 5 gün olan daily scrum raporlama hedefi 3 güne düşürüldü.
