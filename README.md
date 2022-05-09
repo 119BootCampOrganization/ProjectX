@@ -38,11 +38,11 @@ https://drive.google.com/file/d/1EtxRSwtbiqyt1zfs0nhKM3lWjJ__Cfzi/view?usp=shari
 
 - **Daily Scrum**: Daily Scrum toplantıları Discord üzerinden yapılmasına karar verilmiştir. Word dosyası olarak ektedir: 
 
-- **Sprint board update**: Sprint board screenshotları: 
- ![Screenshot 1] (https://drive.google.com/file/d/1wFlY7Zt3UHkFISDjGp559JnCkUg2XW9Q/view?usp=sharing)
+- **Sprint board update**: Sprint board ekran görüntüleri: 
+  (https://drive.google.com/file/d/1wFlY7Zt3UHkFISDjGp559JnCkUg2XW9Q/view?usp=sharing)
 
 - **Ürün Durumu**: Ekran görüntüleri:
- ![Screenshot 1] (https://drive.google.com/file/d/1rphjbaMmI0eVCIWf2gD_FeZ7GcAxfBrp/view)
+  (https://drive.google.com/file/d/1rphjbaMmI0eVCIWf2gD_FeZ7GcAxfBrp/view)
  
 - **Sprint Review:** Bu sprintte ekip üyeleri görevlere yaklaşımını görmüş projeye ayırabileceği vakti ve kapasitelerini test etmiştir. 
 
