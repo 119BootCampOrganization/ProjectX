@@ -52,9 +52,9 @@ olanları temsil etmektedir.
 - **Ürün Durumu**: Ekran görüntüleri:
   ![SS1](https://user-images.githubusercontent.com/95364332/167489212-ac42f370-9916-4df4-8526-fdc4af3e0dff.JPG)
  
-- **Sprint Review:** Bu sprintte tüm ekip üyeleri görevlere yaklaşımını görmüş projeye ayırabileceği vakti ve kapasitelerini test etmiştir. 
+- **Sprint Review:** Bu sprintte tüm ekip üyeleri biten görevlerle birlikte projeye yaklaşımını görmüş ayırabileceği vakti ve kapasitelerini test etmiştir. 
 
 - **Sprint Retrospective:**
-  - Beklenen hedefin gerisinde kalındığı için bir sonraki sprintte iş yükü azaltılarak ürünün özelliklerinde değişimler yapılacaktır.
+  - Beklenen hedefin gerisinde kalındığı için bir sonraki sprintte iş yükü azaltılarak ürünün özelliklerinde değişimler yapılması kararlaştırıldı.
   - Görüntülü görüşmeler haftada 1 e indirilip discordun aktif kullanılması kararlaştırıldı.
   - Haftalık 5 gün olan daily scrum raporlama hedefi 3 güne düşürüldü.
