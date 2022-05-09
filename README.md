@@ -5,8 +5,8 @@ PatchDreamer
 3vs3 Multiplayer Third Person Shooter oyunu.
 
 ## Takım Elemanları
-- Gençay Genç: Product Owner
-- Yaren Taşhan: Scrum Master
+- Gençay Genç: Product Owner/Developer
+- Yaren Taşhan: Scrum Master/Developer
 - Serkan Burak Aslan: Team Member/Developer
 - Melda Şen: Team Member/Developer
 - İlkay Seki: Team Member/Developer
