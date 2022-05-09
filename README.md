@@ -44,10 +44,9 @@ https://drive.google.com/file/d/1EtxRSwtbiqyt1zfs0nhKM3lWjJ__Cfzi/view?usp=shari
 - **Ürün Durumu**: Ekran görüntüleri:
  ![Screenshot 1] (https://drive.google.com/file/d/1rphjbaMmI0eVCIWf2gD_FeZ7GcAxfBrp/view)
  
-- **Sprint Review:**
-- Bu sprintte ekip üyeleri görevlere yaklaşımını görmüş projeye ayırabileceği vakti ve kapasitelerini test etmiştir. 
+- **Sprint Review:** Bu sprintte ekip üyeleri görevlere yaklaşımını görmüş projeye ayırabileceği vakti ve kapasitelerini test etmiştir. 
 
 - **Sprint Retrospective:**
-- - Beklenen hedefin gerisinde kalındığı için bir sonraki sprintte iş yükü azaltılarak ürünün özelliklerinde değişimler yapılacaktır. 
-
- 
+- - Beklenen hedefin gerisinde kalındığı için bir sonraki sprintte iş yükü azaltılarak ürünün özelliklerinde değişimler yapılacaktır.
+- - Görüntülü görüşmeler haftada 1 e indirilip discordun aktif kullanılması kararlaştırıldı.
+- - Haftalık 3 gün daily scrum raporlama hedefi konuldu.
