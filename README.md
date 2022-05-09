@@ -41,6 +41,12 @@ gerektiğine karar verildi.
 olanları temsil etmektedir.
 
 - **Daily Scrum**: Daily Scrum toplantıları Discord üzerinden yapılmasına karar verilmiştir. Ekran görüntüleri: 
+![89cfc0f1-e233-4983-8aa1-55a5a6ec0726](https://user-images.githubusercontent.com/95364332/167495500-d49f1504-5524-433b-8542-7f51f28ed0be.jpg)
+![413f6317-c1d3-4bdf-ab8d-aa37f392d04a](https://user-images.githubusercontent.com/95364332/167495543-de3fa25f-d300-45bf-a6be-5e90339f6c97.jpg)
+![89cfc0f1-e233-4983-8aa1-55a5a6ec0726](https://user-images.githubusercontent.com/95364332/167495596-520a80bf-ff69-4bbb-914f-7b1ab5b3f170.jpg)
+![9e865452-a404-47ae-99a7-8c49404b0c09](https://user-images.githubusercontent.com/95364332/167495608-acaf3794-03fc-49c5-b5f0-67b6f1587dc4.jpg)
+![f535dc9f-ed21-43b1-a5f4-ac1ec9892e95](https://user-images.githubusercontent.com/95364332/167495632-9702d292-739f-4d3e-9963-5e4fee9c1bba.jpg)
+![31e4f1e6-f7c2-4593-94c1-12728b8fef39](https://user-images.githubusercontent.com/95364332/167495659-e17618b7-1c3c-4789-8da7-aa297e13bfee.jpg)
 ![1 1](https://user-images.githubusercontent.com/95364332/167487646-1daaa0a2-885b-4893-97e9-a6d9ba224ebf.JPG)
 ![1 2](https://user-images.githubusercontent.com/95364332/167487649-1ca6f0c6-74ae-4aff-a9b8-ab830d755795.JPG)
 ![1 3](https://user-images.githubusercontent.com/95364332/167487651-44e682bb-c57e-4f4e-9921-2af1cc98bf92.JPG)
