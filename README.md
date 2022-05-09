@@ -19,10 +19,13 @@ Arena içerisinde, humanoidlerin birbiri ile savaştıkları, üçer kişilik ik
 adet humanoidin bulunduğu 3vs3 Multiplayer Third Person Shooter oyunu.
 
 ## Ürün Özellikleri
+- Oyun içerisinde sesli iletişim özelliği
+- Yeni insanları arkadaş olarak ekleme özelliği
+- Oyundaki yetenek seviyesini gösteren özellikler
 
 ## Hedef Kitle
-13 yaş ve üzeri kullanıcılar
-Oyun oynarken sosyalleşmek isteyenler
+- 13 yaş ve üzeri kullanıcılar
+- Oyun oynarken sosyalleşmek isteyenler
 
 ## Product Backlog URL
 https://sharing.clickup.com/14277929/l/h/6-146187202-1/2513aa1e956b267
