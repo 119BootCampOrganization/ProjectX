@@ -2,7 +2,7 @@
 PatchDreamer
 
 # Ürün İle İlgili Bilgiler
-3vs3 Multiplayer Third Person Shooter oyunu.
+2d ve 3d bölümlerin bulunduğu macera oyunu.
 
 ## Takım Elemanları
 - Gençay Genç: Product Owner/Developer
@@ -24,11 +24,10 @@ adet humanoidin bulunduğu 3vs3 Multiplayer Third Person Shooter oyunu.
 - Oyundaki yetenek seviyesini gösteren özellikler
 
 ## Hedef Kitle
-- 13 yaş ve üzeri kullanıcılar
-- Oyun oynarken sosyalleşmek isteyenler
+Farklı bölümlerden oluşan ve her bölümde farklı bir karakterin, mekaniklerin, stillerin oyuncuya sunulduğu karma bir oyun. Her bölüm DreamPatcher ‘ın kaydettiği bir rüyadır. Oyun başlangıcında rüyaların kısa bir tanıtımı bulunmaktadır ve oyuncu istediği bölümü seçerek o rüyada ilerlemektedir. Oyun sonunda tüm bölümleri geçen oyuncu ana karakterlerin bir araya geldiği bir odada onları buluşturmuş olur.
 
 ## Product Backlog URL
-https://sharing.clickup.com/14277929/l/h/6-146187202-1/2513aa1e956b267
+
 
 # Sprint 1
 
