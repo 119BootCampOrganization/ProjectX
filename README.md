@@ -15,19 +15,21 @@ PatchDreamer
 DreamPatcher
 
 ## Ürün Açıklaması
-Arena içerisinde, humanoidlerin birbiri ile savaştıkları, üçer kişilik iki takımdan oluşan, her takımda Ateş, Su, Toprak, Hava elementlerini temsil eden yalnızca bir
-adet humanoidin bulunduğu 3vs3 Multiplayer Third Person Shooter oyunu.
+Farklı bölümlerden oluşan ve her bölümde farklı bir karakterin, mekaniklerin, stillerin oyuncuya sunulduğu karma bir oyun. Her bölüm DreamPatcher ‘ın kaydettiği bir
+rüyadır. Oyun başlangıcında rüyaların kısa bir tanıtımı bulunmaktadır ve oyuncu istediği bölümü seçerek o rüyada ilerlemektedir. Oyun sonunda tüm bölümleri geçen
+oyuncu ana karakterlerin bir araya geldiği bir odada onları buluşturmuş olur.
 
 ## Ürün Özellikleri
-- Oyun içerisinde sesli iletişim özelliği
-- Yeni insanları arkadaş olarak ekleme özelliği
-- Oyundaki yetenek seviyesini gösteren özellikler
+-	Hobi, eğlence.
 
 ## Hedef Kitle
-Farklı bölümlerden oluşan ve her bölümde farklı bir karakterin, mekaniklerin, stillerin oyuncuya sunulduğu karma bir oyun. Her bölüm DreamPatcher ‘ın kaydettiği bir rüyadır. Oyun başlangıcında rüyaların kısa bir tanıtımı bulunmaktadır ve oyuncu istediği bölümü seçerek o rüyada ilerlemektedir. Oyun sonunda tüm bölümleri geçen oyuncu ana karakterlerin bir araya geldiği bir odada onları buluşturmuş olur.
+-	Hem deneyimli oyuncular hem de yeni oyuncular.
+-	Hedef yaş 10+ ve herhangi bir cinsiyete özgü değil.
+
 
 ## Product Backlog URL
 
+---
 
 # Sprint 1
 
@@ -63,3 +65,27 @@ olanları temsil etmektedir.
   - Beklenen hedefin gerisinde kalındığı için bir sonraki sprintte iş yükü azaltılarak ürünün özelliklerinde değişimler yapılması kararlaştırıldı.
   - Görüntülü görüşmeler haftada 1 e indirilip discordun aktif kullanılması kararlaştırıldı.
   - Haftalık 5 gün olan daily scrum raporlama hedefi 3 güne düşürüldü.
+
+---
+
+# Sprint 2
+
+- **Sprint Notları**:Kişisel sebeplerden dolayı oluşan engeller nedeniyle oyun fikrini herkesin uyum sağlayabileceği bir şekilde tamamen değiştirdik. 
+
+- **Sprint içinde tamamlanması tahmin edilen puan**:
+
+- **Puan tamamlama mantığı**:
+
+- **Backlog düzeni ve Story seçimleri**:
+
+- **Daily Scrum**:
+
+- **Sprint board update**:Sprint board ekran görüntüleri: 
+
+- **Ürün Durumu**: Ekran görüntüleri:
+
+- **Sprint Review:** Hedeflenen sprint puanına yaklaşık olarak ulaşıldı. Bölümlerin grafikleri, hikayeleri ve genel mekanikleri tamamlandı. Ürünün son durumuna 
+takımca verilen geribildirimler sonucunda aynı hızla devam edilmesi kararlaştırıldı.
+
+- **Sprint Retrospective:**
+ -	Ekip olarak herkesin yeni fikre uyum sağlayıp sağlayamadığı konuşuldu. Uyum sağlamakta zorluk yaşayan arkadaşların görev dağılımlarında düzenlemeye gidilmesine karar verildi.
