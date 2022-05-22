@@ -70,7 +70,7 @@ olanları temsil etmektedir.
 
 # Sprint 2
 
-- **Sprint Notları**:Kişisel sebeplerden dolayı oluşan engeller nedeniyle oyun fikrini herkesin uyum sağlayabileceği bir şekilde tamamen değiştirdik. 
+- **Sprint Notları**: Kişisel sebeplerden dolayı oluşan engeller nedeniyle oyun fikrini herkesin uyum sağlayabileceği bir şekilde tamamen değiştirdik. 
 
 - **Sprint içinde tamamlanması tahmin edilen puan**:
 
