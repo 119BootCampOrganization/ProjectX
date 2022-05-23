@@ -79,7 +79,7 @@ yönetimi toplam iki sprint olacak şekilde yeniden düzenlendi.
  gerektiğine karar verildi. Puanlamalar fibonacci sayı dizisi kullanılarak ortalama bir görevle karşılaştırma yöntemiyle ortaya çıkmıştır. 
 
 - **Backlog düzeni ve Story seçimleri**:Oyun ana bölümlere ayrılmıştır. Bölümler de alt görevler olarak ClickUp’ta ifade edilmiştir. ClickUp'ta gözüken beyaz itemler 
-üçüncü Sprintte yapılacak işleri gösterirken, yeşil itemler ikinci Sprint içerisinde bitmiş olanları, mor itemlerr ise ikinci Sprintte bitmesi beklenmesine rağmen 
+üçüncü sprintte yapılacak işleri gösterirken, yeşil itemler ikinci sprint içerisinde bitmiş olanları, mor itemler ise ikinci sprintte bitmesi beklenmesine rağmen 
 üçüncü sprintte devam edilecek görevleri temsil etmektedir.
 
 - **Daily Scrum**:https://docs.google.com/document/d/16XMtod2Ph8x5kGATNeLj_JBZEtIpr89jb8lKmZJvCww/edit?usp=sharing
