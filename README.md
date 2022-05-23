@@ -90,6 +90,9 @@ devam edilecek görevleri temsil etmektedir.
 ![3](https://user-images.githubusercontent.com/95364332/169899746-693d0183-5874-4cfa-8d28-0cd2edf7a3c8.JPG)
 
 - **Ürün Durumu**: Ekran görüntüleri:
+![ss2](https://user-images.githubusercontent.com/95364332/169900294-46bd6173-27da-4692-90b5-23ab1bf83d55.JPG)
+![image004](https://user-images.githubusercontent.com/95364332/169900298-1d1c8ee9-8698-45da-9cae-15038c7ec27f.jpg)
+![image001](https://user-images.githubusercontent.com/95364332/169900301-1fdeebe2-f4e2-4dd3-a9c6-b4fd2d94938a.png)
 
 - **Sprint Review:** Hedeflenen sprint puanına %80 oranında ulaşıldı. Bölümlerin grafikleri, hikayeleri ve genel mekanikleri tamamlandı. Ürünün son durumuna 
 takımca verilen geribildirimler sonucunda hızla devam edilmesi kararlaştırıldı.
