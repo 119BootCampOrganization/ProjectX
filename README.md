@@ -28,7 +28,7 @@ oyuncu ana karakterlerin bir araya geldiği bir odada onları buluşturmuş olur
 
 
 ## Product Backlog URL
-
+https://sharing.clickup.com/14277929/l/h/dkq99-2720/ddf3315d4ca9039
 ---
 
 # Sprint 1
@@ -72,20 +72,27 @@ olanları temsil etmektedir.
 
 - **Sprint Notları**: Kişisel sebeplerden dolayı oluşan engeller nedeniyle oyun fikrini herkesin uyum sağlayabileceği bir şekilde tamamen değiştirdik. 
 
-- **Sprint içinde tamamlanması tahmin edilen puan**:
+- **Sprint içinde tamamlanması tahmin edilen puan**:235
+- 
+- **Puan tamamlama mantığı**:Yeni proje için tamamlanması gereken toplam 359 puanlık backlog bulunmaktadır. 2 sprint'e bölündüğünde ilk sprint'in 235 puanlık olması
+-  gerektiğine karar verildi. Puanlamalar fibonacci sayı dizisi kullanılarak ortalama bir görevle karşılaştırma yöntemiyle ortaya çıkmıştır. 
 
-- **Puan tamamlama mantığı**:
+- **Backlog düzeni ve Story seçimleri**:Oyun ana bölümlere ayrılmıştır. Bölümler de alt görevler olarak ClickUp’ta ifade edilmiştir. ClickUp'ta gözüken beyaz item'lar
+-  3. Sprintte yapılacak işleri gösterirken, yeşil item'lar 2. Sprint içerisinde bitmiş olanları, mor item’lar ise 2. Sprintte bitmesi beklenmesine rağmen 3.sprintte
+-   devam edilecek görevleri temsil etmektedir.
 
-- **Backlog düzeni ve Story seçimleri**:
-
-- **Daily Scrum**:
+- **Daily Scrum**:https://docs.google.com/document/d/16XMtod2Ph8x5kGATNeLj_JBZEtIpr89jb8lKmZJvCww/edit?usp=sharing
 
 - **Sprint board update**:Sprint board ekran görüntüleri: 
+![1](https://user-images.githubusercontent.com/95364332/169899623-ffe1af1b-2781-4e00-a70f-288276ed324d.JPG)
+![2](https://user-images.githubusercontent.com/95364332/169899628-b35567e5-b493-4fc5-836d-aabbe47dba1a.JPG)
+![3](https://user-images.githubusercontent.com/95364332/169899746-693d0183-5874-4cfa-8d28-0cd2edf7a3c8.JPG)
 
 - **Ürün Durumu**: Ekran görüntüleri:
 
-- **Sprint Review:** Hedeflenen sprint puanına yaklaşık olarak ulaşıldı. Bölümlerin grafikleri, hikayeleri ve genel mekanikleri tamamlandı. Ürünün son durumuna 
-takımca verilen geribildirimler sonucunda aynı hızla devam edilmesi kararlaştırıldı.
+- **Sprint Review:** Hedeflenen sprint puanına %80 oranında ulaşıldı. Bölümlerin grafikleri, hikayeleri ve genel mekanikleri tamamlandı. Ürünün son durumuna 
+takımca verilen geribildirimler sonucunda hızla devam edilmesi kararlaştırıldı.
 
 - **Sprint Retrospective:**
- -	Ekip olarak herkesin yeni fikre uyum sağlayıp sağlayamadığı konuşuldu. Uyum sağlamakta zorluk yaşayan arkadaşların görev dağılımlarında düzenlemeye gidilmesine karar verildi.
+ -	Ekip olarak herkesin yeni fikre uyum sağlayıp sağlayamadığı konuşuldu. Uyum sağlamakta zorluk yaşayan arkadaşların görev dağılımlarında düzenlemeye gidilmesine 
+ -	karar verildi.
