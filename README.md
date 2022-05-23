@@ -78,8 +78,8 @@ yönetimi toplam iki sprint olacak şekilde yeniden düzenlendi.
 - **Puan tamamlama mantığı**:Yeni proje için tamamlanması gereken toplam 359 puanlık backlog bulunmaktadır. 2 sprint'e bölündüğünde ilk sprint'in 235 puanlık olması
  gerektiğine karar verildi. Puanlamalar fibonacci sayı dizisi kullanılarak ortalama bir görevle karşılaştırma yöntemiyle ortaya çıkmıştır. 
 
-- **Backlog düzeni ve Story seçimleri**:Oyun ana bölümlere ayrılmıştır. Bölümler de alt görevler olarak ClickUp’ta ifade edilmiştir. ClickUp'ta gözüken beyaz item'lar
-3. Sprintte yapılacak işleri gösterirken, yeşil item'lar 2. Sprint içerisinde bitmiş olanları, mor item’lar ise 2. Sprintte bitmesi beklenmesine rağmen 3.sprintte
+- **Backlog düzeni ve Story seçimleri**:Oyun ana bölümlere ayrılmıştır. Bölümler de alt görevler olarak ClickUp’ta ifade edilmiştir. ClickUp'ta gözüken beyaz itemler 
+3. Sprintte yapılacak işleri gösterirken, yeşil itemler 2. Sprint içerisinde bitmiş olanları, mor itemlerr ise 2. Sprintte bitmesi beklenmesine rağmen 3.sprintte
 devam edilecek görevleri temsil etmektedir.
 
 - **Daily Scrum**:https://docs.google.com/document/d/16XMtod2Ph8x5kGATNeLj_JBZEtIpr89jb8lKmZJvCww/edit?usp=sharing
