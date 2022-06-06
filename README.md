@@ -28,7 +28,9 @@ oyuncu ana karakterlerin bir araya geldiği bir odada onları buluşturmuş olur
 
 
 ## Product Backlog URL
-https://sharing.clickup.com/14277929/l/h/dkq99-2720/ddf3315d4ca9039
+https://sharing.clickup.com/14277929/l/h/dkq99-2720/ddf3315d4ca9039 2.SPRİNT DOSYASI
+https://sharing.clickup.com/14277929/l/h/6-210086598-1/539e29b4e618d32 3.SPRİNT DOSYASI
+
 ---
 
 # Sprint 1
@@ -89,14 +91,27 @@ yönetimi toplam iki sprint olacak şekilde yeniden düzenlendi.
 ![2](https://user-images.githubusercontent.com/95364332/169899628-b35567e5-b493-4fc5-836d-aabbe47dba1a.JPG)
 ![3](https://user-images.githubusercontent.com/95364332/169899746-693d0183-5874-4cfa-8d28-0cd2edf7a3c8.JPG)
 
-- **Ürün Durumu**: Ekran görüntüleri:
-![ss2](https://user-images.githubusercontent.com/95364332/169900294-46bd6173-27da-4692-90b5-23ab1bf83d55.JPG)
-![image004](https://user-images.githubusercontent.com/95364332/169900298-1d1c8ee9-8698-45da-9cae-15038c7ec27f.jpg)
-![image001](https://user-images.githubusercontent.com/95364332/169900301-1fdeebe2-f4e2-4dd3-a9c6-b4fd2d94938a.png)
+# Sprint 3
 
-- **Sprint Review:** Hedeflenen sprint puanına %80 oranında ulaşıldı. Bölümlerin grafikleri, hikayeleri ve genel mekanikleri tamamlandı. Ürünün son durumuna 
-takımca verilen geribildirimler sonucunda hızla devam edilmesi kararlaştırıldı.
+- **Sprint Notları**: 
+
+- **Sprint içinde tamamlanması tahmin edilen puan**:124 puan ve önceki sprintten kalan görevlerle beraber toplam: 193 puan
+
+- **Puan tamamlama mantığı**:Projenin tamamlanması için gereken 193 puan kalmıştır. Puanlamalar fibonacci sayı dizisi kullanılarak ortalama bir görevle karşılaştırma yöntemiyle ortaya çıkmıştır. 
+
+- **Backlog düzeni ve Story seçimleri**:Oyun ana bölümlere ayrılmıştır. Bölümler de alt görevler olarak ClickUp’ta ifade edilmiştir. ClickUp'ta gözüken yeşil itemler üçüncü sprint içerisinde bitmiş olanları görevleri temsil etmektedir.
+
+- **Daily Scrum**:https://docs.google.com/document/d/1kHDZJl46rUZRXDZhlUnIU486KbZ03JWs34AHsIjfNBw/edit?usp=sharing
+
+- **Sprint board update**:Sprint board ekran görüntüleri: 
+![1](https://user-images.githubusercontent.com/95364332/172159871-9423c4f9-3f33-4c50-9e71-6bfba7d8b5e0.JPG)
+![2](https://user-images.githubusercontent.com/95364332/172159875-0a352c1b-f14d-4d1c-9f7c-8eb52aaaefaf.JPG)
+
+
+- **Ürün Durumu**: Ekran görüntüleri:
+
+
+- **Sprint Review:** Hedeflenen sprint puanına %100 oranında ulaşıldı. Bölümler tamamlandı. Hatalar giderildi.
 
 - **Sprint Retrospective:**
-Ekip olarak herkesin yeni fikre uyum sağlayıp sağlayamadığı konuşuldu. Uyum sağlamakta zorluk yaşayan arkadaşların görev dağılımlarında düzenlemeye gidilmesine 
-karar verildi.
+Ekip olarak projenin sonuna kadar aldığımız kararların üzerinden geçtik. 
