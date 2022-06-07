@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Crystal
+  - Trap
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 2213003727
+    locked: 0
+  - name: Tree
+    uniqueID: 1426433109
+    locked: 0
+  - name: Star
+    uniqueID: 2224947479
+    locked: 0
+  - name: Saw
+    uniqueID: 1392207427
+    locked: 0
+  - name: Terrain
+    uniqueID: 2446669741
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
